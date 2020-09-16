@@ -35,6 +35,6 @@ end
 # merge the two versions by hand.
 def clock_noise
 
-  puts "tock tick"
+  puts "tick tock"
 
 end
